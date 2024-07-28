@@ -1,11 +1,11 @@
 10 Mata Kuliah di Semester 4
-  1. RPL
-  2. PROBSTAT
-  3. SO
-  4. Ilmu Akhlak
-  5. Prak SO
-  6. PBO
-  7. BASDAT
-  8. Strategi Algo
-  9. Prak.BASDAT
-  10. Prak.PBO
+  1. RPL          (A)
+  2. PROBSTAT     (A)
+  3. SO           (A)
+  4. Ilmu Akhlak  (B)
+  5. Prak SO      (A)
+  6. PBO          (A)
+  7. BASDAT       (A)
+  8. Strategi Algo(A)
+  9. Prak.BASDAT  (A)
+  10. Prak.PBO    (A)
