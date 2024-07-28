@@ -9,3 +9,5 @@
   8. Strategi Algo(A)
   9. Prak.BASDAT  (A)
   10. Prak.PBO    (A)
+
+GPA : 3.84
